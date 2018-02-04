@@ -1,0 +1,9 @@
+#navbar{
+	background-color: blue;
+}
+#formPage{
+	background-image: url("flag.jpeg");
+}
+#bio{
+	visibility: hidden;
+}
